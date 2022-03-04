@@ -1,0 +1,4 @@
+#Thu Mar 03 22:15:15 CET 2022
+base.0=/home/overdose/Desktop/tpsit-21-22/mcu_floor/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
